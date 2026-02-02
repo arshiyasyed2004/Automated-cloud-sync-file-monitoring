@@ -1,0 +1,12 @@
+# Google OAuth secrets
+client_secrets.json
+credentials.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.env
+
+watched_folder/*
